@@ -26,6 +26,4 @@ Passenger count, Fare amount, distance_km, DayofWeek, Month, Hour & Year
 
 
 
-
-
-Base fare, toll charges, surge multipliers, etc.
+ll charges, surge multipliers, etc.
