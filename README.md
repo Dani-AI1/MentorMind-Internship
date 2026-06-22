@@ -13,6 +13,7 @@ Build and compare multiple regression models to accurately estimate continuous t
 Interpret model results to understand which variables (like peak hours or weekdays) heavily drive fare prices.
 
 **Dataset**
+
 The project is based on a structured dataset (uber.csv) with features such as:
 
 Trip distance, pickup and dropoff latitudes/longitudes, pickup datetimestamp
