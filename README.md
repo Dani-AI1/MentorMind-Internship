@@ -11,3 +11,12 @@ Prepare the data for machine learning by handling missing values, filtering outl
 Build and compare multiple regression models to accurately estimate continuous target fares.
 
 Interpret model results to understand which variables (like peak hours or weekdays) heavily drive fare prices.
+
+**Dataset**
+The project is based on a structured dataset (uber.csv) with features such as:
+
+Trip distance, pickup and dropoff latitudes/longitudes, pickup datetimestamp
+
+Passenger count, Fare amount, distance_km, DayofWeek, Month, Hour & Year
+
+Base fare, toll charges, surge multipliers, etc.
