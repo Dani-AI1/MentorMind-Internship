@@ -22,8 +22,3 @@ Passenger count, Fare amount, distance_km, DayofWeek, Month, Hour & Year
 
 **Exploratory Data Analysis**
 
-
-
-
-
-ll charges, surge multipliers, etc.
