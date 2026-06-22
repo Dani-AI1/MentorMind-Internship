@@ -20,4 +20,12 @@ Trip distance, pickup and dropoff latitudes/longitudes, pickup datetimestamp
 
 Passenger count, Fare amount, distance_km, DayofWeek, Month, Hour & Year
 
+**Exploratory Data Analysis**
+
+
+
+
+
+
+
 Base fare, toll charges, surge multipliers, etc.
