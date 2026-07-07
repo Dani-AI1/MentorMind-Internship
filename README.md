@@ -22,3 +22,5 @@ Passenger count, Fare amount, distance_km, DayofWeek, Month, Hour & Year
 
 **Exploratory Data Analysis**
 
+Identified the outliers using box plot
+
