@@ -42,6 +42,11 @@ Model Implementation:
 
 <img width="256" height="98" alt="image" src="https://github.com/user-attachments/assets/bfd23ade-6571-4aaa-b882-3d6fb2d0c761" />
 
+Evaluating the model:
+
+<img width="577" height="346" alt="image" src="https://github.com/user-attachments/assets/91fd1f42-6aa3-4f5c-90f3-ac719b773e80" />
+
+
 
 
 
