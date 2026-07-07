@@ -24,3 +24,11 @@ Passenger count, Fare amount, distance_km, DayofWeek, Month, Hour & Year
 
 Identified the outliers using box plot
 
+Code:
+
+<img width="419" height="218" alt="image" src="https://github.com/user-attachments/assets/8e26c682-5f62-4802-b022-8f98945f4c92" />
+
+<img width="876" height="461" alt="image" src="https://github.com/user-attachments/assets/ad52263f-f342-400c-bc18-0080110dfec0" />
+
+
+
