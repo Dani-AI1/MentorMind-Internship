@@ -46,6 +46,20 @@ Evaluating the model:
 
 <img width="577" height="346" alt="image" src="https://github.com/user-attachments/assets/91fd1f42-6aa3-4f5c-90f3-ac719b773e80" />
 
+To improve the Train and test scores, implementing the Random Forest Regressor:
+
+<img width="430" height="133" alt="image" src="https://github.com/user-attachments/assets/2947af37-9643-4d14-8948-645178338425" />
+
+<img width="695" height="437" alt="image" src="https://github.com/user-attachments/assets/fb27f34a-9f20-4ac2-9440-b4c9f72a8932" />
+
+<img width="475" height="368" alt="image" src="https://github.com/user-attachments/assets/4f4b3032-ff2a-41dd-85fb-06400e6a3f4a" />
+
+<img width="886" height="210" alt="image" src="https://github.com/user-attachments/assets/b67f60d0-3448-4405-a7cc-ae3a977ac38a" />
+
+
+
+
+
 
 
 
