@@ -54,7 +54,27 @@ To improve the Train and test scores, implementing the Random Forest Regressor:
 
 <img width="475" height="368" alt="image" src="https://github.com/user-attachments/assets/4f4b3032-ff2a-41dd-85fb-06400e6a3f4a" />
 
-<img width="886" height="210" alt="image" src="https://github.com/user-attachments/assets/b67f60d0-3448-4405-a7cc-ae3a977ac38a" />
+<img width="548" height="125" alt="image" src="https://github.com/user-attachments/assets/08ff7e5c-a371-46b3-9be5-a091a7b78b57" />
+
+Drawing the Inference:
+
+It confirms that distance is the primary "engine" of regression model
+
+By utilising the RandomForestReg the Train score has been drastically reduced with a slight increase in Test score
+
+Overfitting is minimized using RandomizeSearchCV.
+
+Executive Summary
+
+The objective of this analysis was to evaluate two machine learning models—Linear Regression (LR) and Random Forest (RF)—to predict Uber fare amounts based on GPS coordinates, time of day, and trip distance. After testing across various time-frames (4 AM, 2 PM, 6 PM, and 9 PM), the Random Forest Regressor is the recommended model for deployment due to its superior ability to handle non-linear temporal patterns and realistic price scaling.
+
+<img width="407" height="242" alt="image" src="https://github.com/user-attachments/assets/4ad66c4c-4121-4c58-b6f6-3ec10b82b282" />
+
+Recommendation:
+
+Comparatively the Non-Linear Regression (RandomForest) utilises the decision-tree buckets to treat each hour as specific context whereas the Linear Regression predicts that prices always decrease as the hour increases, assuming the time is being continuous in nature. 
+
+
 
 
 
