@@ -4,21 +4,22 @@ This project provides a comprehensive analysis of historical trip and ride-shari
 
 **Objectives**
 
-Identify key patterns and relationships in pricing data (e.g., peak hours, high-demand zones).
+	Identify key patterns and relationships in pricing data (e.g., peak hours, high-demand zones).
 
-Prepare the data for machine learning by handling missing values, filtering outliers, and engineering features like distance metrics.
+	Prepare the data for machine learning by handling missing values, filtering outliers, and engineering features like distance metrics.
 
-Build and compare multiple regression models to accurately estimate continuous target fares.
+	Build and compare multiple regression models to accurately estimate continuous target fares.
 
-Interpret model results to understand which variables (like peak hours or weekdays) heavily drive fare prices.
+	Interpret model results to understand which variables (like peak hours or weekdays) heavily drive fare prices.
+
 
 **Dataset**
 
 The project is based on a structured dataset (uber.csv) with features such as:
 
-Trip distance, pickup and dropoff latitudes/longitudes, pickup datetimestamp
+	Trip distance, pickup and dropoff latitudes/longitudes, pickup datetimestamp
 
-Passenger count, Fare amount, distance_km, DayofWeek, Month, Hour & Year
+	Passenger count, Fare amount, distance_km, DayofWeek, Month, Hour & Year
 
 **Exploratory Data Analysis**
 
@@ -29,6 +30,14 @@ Code:
 <img width="419" height="218" alt="image" src="https://github.com/user-attachments/assets/8e26c682-5f62-4802-b022-8f98945f4c92" />
 
 <img width="876" height="461" alt="image" src="https://github.com/user-attachments/assets/ad52263f-f342-400c-bc18-0080110dfec0" />
+
+Identfying the correlation by means of using Heatmap
+
+<img width="384" height="92" alt="image" src="https://github.com/user-attachments/assets/74f566c1-d56b-42c3-914f-960005682446" />
+
+<img width="897" height="523" alt="image" src="https://github.com/user-attachments/assets/5a0a8ff5-f512-4304-9b88-4fca0d44bc92" />
+
+
 
 
 
