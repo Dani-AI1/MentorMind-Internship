@@ -38,11 +38,11 @@ Identfying the correlation by means of using Heatmap
 <img width="897" height="523" alt="image" src="https://github.com/user-attachments/assets/5a0a8ff5-f512-4304-9b88-4fca0d44bc92" />
 
 
-Model Implementation:
+**Model Implementation**:
 
 <img width="256" height="98" alt="image" src="https://github.com/user-attachments/assets/bfd23ade-6571-4aaa-b882-3d6fb2d0c761" />
 
-Evaluating the model:
+**Evaluating the model**:
 
 <img width="577" height="346" alt="image" src="https://github.com/user-attachments/assets/91fd1f42-6aa3-4f5c-90f3-ac719b773e80" />
 
@@ -56,27 +56,28 @@ To improve the Train and test scores, implementing the Random Forest Regressor:
 
 <img width="548" height="125" alt="image" src="https://github.com/user-attachments/assets/08ff7e5c-a371-46b3-9be5-a091a7b78b57" />
 
-Drawing the Inference:
-
-It confirms that distance is the primary "engine" of regression model
+**Drawing the Inference**:
 
 By utilising the RandomForestReg the Train score has been drastically reduced with a slight increase in Test score
 
 Overfitting is minimized using RandomizeSearchCV.
 
-Executive Summary
+**Executive Summary**
 
 The objective of this analysis was to evaluate two machine learning models—Linear Regression (LR) and Random Forest (RF)—to predict Uber fare amounts based on GPS coordinates, time of day, and trip distance. After testing across various time-frames (4 AM, 2 PM, 6 PM, and 9 PM), the Random Forest Regressor is the recommended model for deployment due to its superior ability to handle non-linear temporal patterns and realistic price scaling.
 
 <img width="407" height="242" alt="image" src="https://github.com/user-attachments/assets/4ad66c4c-4121-4c58-b6f6-3ec10b82b282" />
 
-Recommendation:
+**Insights & Outcomes**
+
+Clear visualization of feature importance
+
+It confirms that "**distance**" is the primary engine of regression model
+
+**Conclusion**
 
 Comparatively the Non-Linear Regression (RandomForest) utilises the decision-tree buckets to treat each hour as specific context whereas the Linear Regression predicts that prices always decrease as the hour increases, assuming the time is being continuous in nature. 
-
-
-
-
+Henceforth the RandomForest would be recommended for realistic price scaling.
 
 
 
