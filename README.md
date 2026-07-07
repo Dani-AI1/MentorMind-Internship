@@ -4,22 +4,22 @@ This project provides a comprehensive analysis of historical trip and ride-shari
 
 **Objectives**
 
-	Identify key patterns and relationships in pricing data (e.g., peak hours, high-demand zones).
+1.	Identify key patterns and relationships in pricing data (e.g., peak hours, high-demand zones).
 
-	Prepare the data for machine learning by handling missing values, filtering outliers, and engineering features like distance metrics.
+2.	Prepare the data for machine learning by handling missing values, filtering outliers, and engineering features like distance metrics.
 
-	Build and compare multiple regression models to accurately estimate continuous target fares.
+3.	Build and compare multiple regression models to accurately estimate continuous target fares.
 
-	Interpret model results to understand which variables (like peak hours or weekdays) heavily drive fare prices.
+4.	Interpret model results to understand which variables (like peak hours or weekdays) heavily drive fare prices.
 
 
 **Dataset**
 
 The project is based on a structured dataset (uber.csv) with features such as:
 
-	Trip distance, pickup and dropoff latitudes/longitudes, pickup datetimestamp
+1.	Trip distance, pickup and dropoff latitudes/longitudes, pickup datetimestamp
 
-	Passenger count, Fare amount, distance_km, DayofWeek, Month, Hour & Year
+2.	Passenger count, Fare amount, distance_km, DayofWeek, Month, Hour & Year
 
 **Exploratory Data Analysis**
 
@@ -36,6 +36,11 @@ Identfying the correlation by means of using Heatmap
 <img width="384" height="92" alt="image" src="https://github.com/user-attachments/assets/74f566c1-d56b-42c3-914f-960005682446" />
 
 <img width="897" height="523" alt="image" src="https://github.com/user-attachments/assets/5a0a8ff5-f512-4304-9b88-4fca0d44bc92" />
+
+
+Model Implementation:
+
+<img width="256" height="98" alt="image" src="https://github.com/user-attachments/assets/bfd23ade-6571-4aaa-b882-3d6fb2d0c761" />
 
 
 
